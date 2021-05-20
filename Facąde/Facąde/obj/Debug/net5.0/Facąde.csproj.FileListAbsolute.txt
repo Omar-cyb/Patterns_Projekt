@@ -1,0 +1,16 @@
+C:\Users\gavri\source\repos\Facąde\Facąde\bin\Debug\net5.0\Facąde.exe
+C:\Users\gavri\source\repos\Facąde\Facąde\bin\Debug\net5.0\Facąde.deps.json
+C:\Users\gavri\source\repos\Facąde\Facąde\bin\Debug\net5.0\Facąde.runtimeconfig.json
+C:\Users\gavri\source\repos\Facąde\Facąde\bin\Debug\net5.0\Facąde.runtimeconfig.dev.json
+C:\Users\gavri\source\repos\Facąde\Facąde\bin\Debug\net5.0\Facąde.dll
+C:\Users\gavri\source\repos\Facąde\Facąde\bin\Debug\net5.0\ref\Facąde.dll
+C:\Users\gavri\source\repos\Facąde\Facąde\bin\Debug\net5.0\Facąde.pdb
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\Facąde.csprojAssemblyReference.cache
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\Facąde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\Facąde.AssemblyInfoInputs.cache
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\Facąde.AssemblyInfo.cs
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\Facąde.csproj.CoreCompileInputs.cache
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\Facąde.dll
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\ref\Facąde.dll
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\Facąde.pdb
+C:\Users\gavri\source\repos\Facąde\Facąde\obj\Debug\net5.0\Facąde.genruntimeconfig.cache
