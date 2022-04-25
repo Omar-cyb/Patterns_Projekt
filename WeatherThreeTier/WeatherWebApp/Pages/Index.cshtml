@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">WeatherThreeTier</h1>
+
+    <form method="post">
+        <label>Search: <input type="text" asp-for="Search" placeholder="City" value=@Model.Search /></label>
+        <input type="submit" />
+    </form>
+
+    <div>
+        @{
+            if (Model.Forecasts is null)
+            {
+                <p>Loading...</p>
+            }
+            else if (Model.Forecasts.Any())
+            {
+                @foreach (var forecast in Model.Forecasts)
+                {
+                    <div class="forecast">
+                        <label>Date: @forecast["date"]</label>
+                        <label>City: @forecast["city"]</label>
+                        <label>Temperature: @forecast["temperature"]</label>
+                        <label>Feels @forecast["summary"]</label>
+                    </div>
+                }
+            }
+            else
+            {
+                <p>Ooof! Seems there are no forecasts :(</p>
+            }
+        }
+    </div>
+</div>
